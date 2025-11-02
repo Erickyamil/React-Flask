@@ -4,4 +4,5 @@
 
 Simply use:
 
--**1**- npm install
+```bash
+npm install

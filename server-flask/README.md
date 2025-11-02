@@ -2,7 +2,9 @@
 
 ## Installation
 
-Install dependencies using:
+Install the required dependencies using:
 
--**2**- pip install -r requirements.txt
+```bash
+pip install -r requirements.txt
+
 
