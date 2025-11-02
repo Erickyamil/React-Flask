@@ -4,4 +4,4 @@
 
 Simply use:
 
-npm install
+-**1**- npm install

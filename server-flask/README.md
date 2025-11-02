@@ -4,5 +4,5 @@
 
 Install dependencies using:
 
-pip install -r requirements.txt
+-**2**- pip install -r requirements.txt
 
