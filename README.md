@@ -2,5 +2,6 @@
 
 find the corresponding instructions under:
 
--'client-react'.- For the frontend project.
--'server-flask'.- For the backend project.
+- **client-react** — Frontend project (React + Vite)
+- **server-flask** — Backend project (Flask + Python)
+
